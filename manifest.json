@@ -8,6 +8,13 @@
       "type": "single",
       "firstDeployedAt": "2026-04-29T17:07:56.117Z",
       "updatedAt": "2026-04-29T17:10:29.886Z"
+    },
+    {
+      "slug": "getting-started-with-gemini-cli",
+      "title": "Getting Started with Gemini CLI",
+      "type": "single",
+      "firstDeployedAt": "2026-04-29T17:16:24.021Z",
+      "updatedAt": "2026-04-29T17:16:24.021Z"
     }
   ]
 }
