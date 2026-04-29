@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "hubTitle": "Gemini Cli",
+  "courses": [
+    {
+      "slug": "gemini-cli-essentials-and-core-configuration",
+      "title": "Gemini CLI Essentials and Core Configuration",
+      "type": "single",
+      "firstDeployedAt": "2026-04-29T17:07:56.117Z",
+      "updatedAt": "2026-04-29T17:07:56.117Z"
+    }
+  ]
+}
